@@ -10,9 +10,7 @@ In the same directory as your `package.json` file, create or edit an `.npmrc` fi
 registry=https://npm.pkg.github.com/andy164
 ```
 
-### As a dependency in your project
-
----
+#### As a dependency in your project
 
 1. Install from the command line:
 
@@ -29,8 +27,6 @@ npm install @andy164/roman-numerals@1.0.0
 ```
 npm install
 ```
-
-<br>
 
 ## Usage
 
@@ -109,7 +105,7 @@ $ npx roman-numerals -v
 
 ## License
 
-See the license [here](<(https://github.com/Andy164/REG003-roman-numerals/blob/main/LICENSE)>).
+See the license [here](./LICENSE).
 
 <br>
 
@@ -268,5 +264,3 @@ See the license [here](<(https://github.com/Andy164/REG003-roman-numerals/blob/m
 * https://medium.com/javascript-in-plain-english/algorithms-101-convert-roman-numerals-to-integers-in-javascript-d3aba86a43d4
 * https://blog.usejournal.com/create-a-roman-numerals-converter-in-javascript-a82fda6b7a60
 * https://www.w3resource.com/javascript-exercises/javascript-math-exercise-22.php -->
-
----
