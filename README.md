@@ -15,13 +15,13 @@ registry=https://npm.pkg.github.com/andy164
 1. Install from the command line:
 
 ```
-npm install @andy164/roman-numerals@1.0.0
+npm install @andy164/roman-numerals@1.0.1
 ```
 
 2. Install via package.json:
 
 ```
-"@andy164/roman-numerals": "1.0.0"
+"@andy164/roman-numerals": "1.0.1"
 ```
 
 ```
