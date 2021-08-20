@@ -1,6 +1,6 @@
 {
   "name": "@andy164/roman-numerals",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module that allows the user to convert Arabic numerals into Roman numerals and vice versa",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
